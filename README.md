@@ -9,11 +9,10 @@ The Games Rules:
     You cannot bet a number of dice less than the current bet.
     You cant bet the dice value less than the current bet with the same number of dice.
     If you think the total number of dice is LESS than the bet number you can CALL.
-        If there is less dice with that face value then the beted amount the better loses a dice, otherwise the caller loses a dice.
-       
+        If there is less dice with that face value then the beted amount the better loses a dice, otherwise the caller loses a dice.   
     The loser is the one with no dice left.
     
-    The left input is the face of the die, and the slider is the amount you think there are.
+The left input is the face of the die, and the slider is the amount you think there are.
 
 
 
