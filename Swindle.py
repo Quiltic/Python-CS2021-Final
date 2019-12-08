@@ -1,3 +1,5 @@
+__author__ = "Josh Zack"
+__email__ = "zackjm@mail.uc.edu"
 #This is based on The game Swindelstones or Lires Dice
 
 import random, os 
