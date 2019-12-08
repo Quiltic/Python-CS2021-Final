@@ -17,11 +17,10 @@ The left input is the face of the die, and the slider is the amount you think th
 
 
 An example round:
-  Human has (1,6,6,4) for there dice.
-  Bot has (6,3,3,1) for there dice.
-  
-  
-  Human bet 2 dice that are 6's
-  Bot bet 3 dice that are 6's
-  Human Calls!
-  Human was wrong and lost a dice!
+Human has (1,6,6,4) for there dice.
+Bot has (6,3,3,1) for there dice.
+
+Human bet 2 dice that are 6's
+Bot bet 3 dice that are 6's
+Human Calls!
+Human was wrong and lost a dice!
