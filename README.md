@@ -6,7 +6,7 @@ How to use/play:
 Clone the repository then run the interface.py file.
 
 The Games Rules: 
-    You cannot bet a number of dice less than the current bet.
+    \nYou cannot bet a number of dice less than the current bet.
     You cant bet the dice value less than the current bet with the same number of dice.
     If you think the total number of dice is LESS than the bet number you can CALL.
         If there is less dice with that face value then the beted amount the better loses a dice, otherwise the caller loses a dice.   
