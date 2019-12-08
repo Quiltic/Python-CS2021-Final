@@ -1,3 +1,6 @@
+__author__ = "Ethan Fidler"
+__email__ = "fidlerec@mail.uc.edu"
+
 import tkinter as tk
 
 from Swindle import Human, Bot, RunRound
